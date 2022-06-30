@@ -1,16 +1,6 @@
-# meals_app
+# App for meals recipes
 
-A new Flutter project.
+A simples app that shows different recipes based on their genre, with the possibility to save your favorites.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Only a demo project. You can download the repository and run the main.dart inside \lib on your Flutter Supported  IDE
+Applied Concepts: Grid Builder, Navigation, List, List manipulation, ListTile, ListView, Theming, Passing data via constructor/routes arguments, Using named routes, Adding a bottom bar and side drawer
